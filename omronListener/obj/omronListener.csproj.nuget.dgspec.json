@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fstel\\source\\repos\\omronListener\\omronListener\\omronListener.csproj": {}
+    "D:\\Bibliotheken\\Dokumente\\Robotics\\omronListener\\omronListener\\omronListener.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fstel\\source\\repos\\omronListener\\omronListener\\omronListener.csproj": {
+    "D:\\Bibliotheken\\Dokumente\\Robotics\\omronListener\\omronListener\\omronListener.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fstel\\source\\repos\\omronListener\\omronListener\\omronListener.csproj",
+        "projectUniqueName": "D:\\Bibliotheken\\Dokumente\\Robotics\\omronListener\\omronListener\\omronListener.csproj",
         "projectName": "omronListener",
-        "projectPath": "C:\\Users\\fstel\\source\\repos\\omronListener\\omronListener\\omronListener.csproj",
+        "projectPath": "D:\\Bibliotheken\\Dokumente\\Robotics\\omronListener\\omronListener\\omronListener.csproj",
         "packagesPath": "C:\\Users\\fstel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fstel\\source\\repos\\omronListener\\omronListener\\obj\\",
+        "outputPath": "D:\\Bibliotheken\\Dokumente\\Robotics\\omronListener\\omronListener\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fstel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,6 +43,10 @@
             "Microsoft.Extensions.Hosting": {
               "target": "Package",
               "version": "[3.1.22, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.29, )"
             }
           },
           "imports": [
